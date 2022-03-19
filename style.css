@@ -1,0 +1,30 @@
+body {
+   background-color: #808080 ;
+    color: #2f4f4f;
+}
+
+h1 {
+    text-align: center;
+    color: #2f4f4f;
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+}
+
+p {
+    background-color: beige;
+    font-size: 20px;
+}
+
+play {
+   display: flex;
+   float: right;
+   border: 10px inset #808080;
+   justify-content: space-around
+}
+
+ img{
+    border: 10px inset #808080;
+ }
